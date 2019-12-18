@@ -41,4 +41,20 @@ export default {
 </script>
 <style>
 
+#contact {
+    background-color: rgb(255, 255, 255);
+    background-size: 100%;
+}
+
+.text-contact {
+    color: #878682;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 80px 0;
+    text-align: left;
+    background: rgba(0, 0, 0, 0);
+    box-shadow: 15px 15px 30px rgba(21, 21, 21, .15);
+}
+
+
 </style>

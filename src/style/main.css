@@ -366,25 +366,6 @@ nav.navbar .navbar-toggler.active span:nth-of-type(2) {
 
 /*home*/
 
-#home {
-    color: #fff;
-    background-color: #5989e5;
-    background-image: -webkit-gradient(linear, left top, right top, from(#5989e5), to(#37cfdc));
-    background-image: linear-gradient(to right, #5989e5, #37cfdc);
-}
-
-section.home p {
-    margin: 20px 0;
-}
-
-section.home .CTA {
-    margin-top: 40px;
-}
-
-section.home .CTA a {
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
 
 
 /*skill*/
@@ -451,33 +432,6 @@ section.skill .nav-tabs a.active {
 */
 /*about me*/
 
-section.about-me p {
-    margin: 10px 0;
-}
-
-#about-me {
-    background: #f9f9f9;
-    background-color: #333;
-}
-
-.about-title {
-    color: #ccc;
-    font-weight: 600;
-    text-decoration: underline;
-    text-align: center;
-}
-
-#text-about {
-    color: #878682;
-    font-size: 18px;
-    font-weight: 400;
-    margin: 80px 0;
-    text-align: left;
-    background: rgba(0, 0, 0, 0);
-    ;
-    box-shadow: 15px 15px 30px rgba(21, 21, 21, .15);
-}
-
 
 /*port*/
 
@@ -485,31 +439,9 @@ section.about-me p {
 
 /* footer */
 
-footer.main-footer {
-    padding: 30px 0 0;
-    overflow-x: hidden;
-    background: #5989e5;
-    color: #fff;
-    padding-bottom: 1rem;
-}
 
 
 /*CONTACT*/
-
-#contact {
-    background-color: rgb(255, 255, 255);
-    background-size: 100%;
-}
-
-.text-contact {
-    color: #878682;
-    font-size: 18px;
-    font-weight: 400;
-    margin: 80px 0;
-    text-align: left;
-    background: rgba(0, 0, 0, 0);
-    box-shadow: 15px 15px 30px rgba(21, 21, 21, .15);
-}
 
 
 /**/

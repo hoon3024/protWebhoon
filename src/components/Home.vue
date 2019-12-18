@@ -22,6 +22,37 @@ export default {
 }
 </script>
 <style scoped>
+html{
+  
+  background: url("../assets/home/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#home {
+    color: #fff;
+    background-color: #5989e5;
+    background-image: -webkit-gradient(linear, left top, right top, from(#5989e5), to(#37cfdc));
+    background-image: linear-gradient(to right, #5989e5, #37cfdc);
+   
+}
+
+section.home p {
+    margin: 20px 0;
+}
+
+section.home .CTA {
+    margin-top: 40px;
+}
+
+section.home .CTA a {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
 .home-text {
     font-size: 1.1rem;
     font-weight: 400;
@@ -47,7 +78,7 @@ export default {
     transform: translateX(100px);
     transition: all 2s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
-    .enter{
+.enter{
     opacity: 1;
     transform: translateX(0px);
 }

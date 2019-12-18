@@ -29,5 +29,13 @@ export default {
 }
 </script>
 <style>
+footer.main-footer {
+    padding: 30px 0 0;
+
+    overflow-x: hidden;
+    background: #5989e5;
+    color: #fff;
+    padding-bottom: 1rem;
+}
 
 </style>
