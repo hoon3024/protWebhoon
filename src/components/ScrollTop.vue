@@ -1,0 +1,20 @@
+<template>
+    <div id="scrollTop">
+      <div class="d-flex align-items-center justify-content-end">
+        <i class="fa fa-long-arrow-up"></i>To Top</div>
+    </div>
+  
+</template>
+
+<script>
+export default {
+    
+
+    
+};
+</script>
+<style>
+
+
+
+</style>
